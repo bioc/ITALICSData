@@ -1,0 +1,11 @@
+Package: ITALICSData
+Version: 2.0.0
+Date: 2008-05-01
+Title: ITALICSData
+Depends: R (>= 2.0.0)
+Author: Guillem Rigaill
+Maintainer: Guillem Rigaill <italics@curie.fr>
+Description: Data needed to use the ITALICS package
+License: GPL
+URL: http://bioinfo.curie.fr
+Packaged: Fri Jun 20 09:18:28 2008; grigaill
